@@ -33,6 +33,11 @@ nav ul li {
     list-style: none;
 }
 
+nav ul li:hover{    
+    text-shadow: 1px 1px 2.5px #fff;
+    font-weight: bold;
+}
+
 main {
     width: 1088px;
     display: flex;
